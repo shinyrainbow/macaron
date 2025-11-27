@@ -565,7 +565,7 @@ export default function Home() {
               <span className="text-[#e91e63]">Macaron</span> Agency
             </div>
             <p className="text-gray-400 text-sm">
-              &copy; {new Date().getFullYear()} Macaron Agency. All rights reserved.
+              &copy; {new Date().getFullYear()} บริษัท มาการอง เอเจนซี่ จำกัด
             </p>
             <div className="flex gap-6 text-sm text-gray-400">
               <a href="#" className="hover:text-white transition-colors">Privacy Policy</a>

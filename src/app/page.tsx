@@ -561,8 +561,11 @@ export default function Home() {
       <footer className="py-8 bg-[#111111] border-t border-white/10">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex flex-col md:flex-row items-center justify-between gap-4">
-            <div className="text-2xl font-bold">
-              <span className="text-[#e91e63]">Macaron</span> Agency
+            <div>
+              <div className="text-2xl font-bold">
+                <span className="text-[#e91e63]">Macaron</span> Agency
+              </div>
+              <p className="text-gray-400 text-xs mt-1">บริษัท มาการอง เอเจนซี่ จำกัด</p>
             </div>
             <p className="text-gray-400 text-sm">
               &copy; {new Date().getFullYear()} บริษัท มาการอง เอเจนซี่ จำกัด

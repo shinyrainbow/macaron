@@ -14,7 +14,7 @@ export default function Home() {
             {/* Logo */}
             <div className="flex-shrink-0">
               <a href="#" className="text-2xl font-bold">
-                <span className="text-[#e91e63]">atltechsolutions</span> Agency
+                <span className="text-[#e91e63]">atltechsolutions</span>
               </a>
             </div>
 
@@ -85,9 +85,9 @@ export default function Home() {
 
         <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h1 className="text-5xl sm:text-6xl md:text-7xl lg:text-8xl font-bold mb-6">
-            <span className="text-[#e91e63]">ATL</span>
-            <br />
-            <span className="text-white">TECH SOLUTIONS</span>
+            {/* <span className="text-[#e91e63]">ATL</span>
+            <br /> */}
+            <span className="text-white">ATL TECH SOLUTIONS</span>
           </h1>
           <p className="text-xl sm:text-2xl text-gray-300 max-w-3xl mx-auto mb-8">
             Quality Services & Smart Facebook Engagement with <span className="text-[#e91e63] font-semibold">NainaHub Chatbot</span>
@@ -409,7 +409,7 @@ export default function Home() {
                 </div>
                 <div>
                   <h4 className="text-lg font-semibold mb-1">Phone</h4>
-                  <p className="text-gray-400">+66 90-979-1689</p>
+                  <p className="text-gray-400">+66 82-554-6541</p>
                 </div>
               </div>
 
@@ -565,10 +565,10 @@ export default function Home() {
               <div className="text-2xl font-bold">
                 <span className="text-[#e91e63]">ATL</span> TECH SOLUTIONS
               </div>
-              <p className="text-gray-400 text-xs mt-1">บริษัท มาการอง เอเจนซี่ จำกัด</p>
+              <p className="text-gray-400 text-xs mt-1">บริษัท เอทีแอล เทค โซลูชันส์ จำกัด</p>
             </div>
             <p className="text-gray-400 text-sm">
-              &copy; {new Date().getFullYear()} บริษัท มาการอง เอเจนซี่ จำกัด
+              &copy; {new Date().getFullYear()} บริษัท เอทีแอล เทค โซลูชันส์ จำกัด
             </p>
             <div className="flex gap-6 text-sm text-gray-400">
               <a href="#" className="hover:text-white transition-colors">Privacy Policy</a>
